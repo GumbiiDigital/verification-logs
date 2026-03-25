@@ -294,3 +294,11 @@ S2-LOGS:
   watcher: [Wed Mar 25 11:10:08 PM UTC 2026] Phase 1 scores: 25/28
 S3-ARTIFACTS: p1_vids=50/56 p1_scores=25/28 p2_vids=23 http=200
 ---
+=== 2026-03-25 23:15:22 UTC ===
+S1-PROCS: tmux=5 gen=5 gpu=1 % temp=47C
+S2-LOGS:
+  phase1: [Wed Mar 25 09:28:44 PM UTC 2026] Upscaling: testimonial_frustrated_seed137_8s_448x256.mp4 → 720p
+  phase2: [Wed Mar 25 11:12:56 PM UTC 2026] [44/52] Generating: exp_monotone__male_brown_blue_01_seed42 (8s, face=male_brown_blue_01.jpg, 256x448 portrait)
+  watcher: [Wed Mar 25 11:14:08 PM UTC 2026] Phase 1 scores: 25/28
+S3-ARTIFACTS: p1_vids=50/56 p1_scores=25/28 p2_vids=24 http=200
+---
